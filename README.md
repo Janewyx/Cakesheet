@@ -1,6 +1,6 @@
 # Cakesheet
 This is a cheatsheet I created for my Statistics midterm. For easy readability under exam time constrain, I decided to 
-heavily abbreviate the terms and colour code and the sheet using the palette (which I call cake-themed myself, thus created  the illustration below) inspired by the posts from @LVaudor on Twitter. 
+heavily abbreviate the terms and colour-code and the sheet using the palette (which I call cake-themed myself, thus created  the illustration below) inspired by the posts from @LVaudor on Twitter. 
 
 ### Cakepalette:
 ![palette](https://github.com/Janewyx/Cakesheet/blob/master/palette.svg)
