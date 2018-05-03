@@ -1,5 +1,7 @@
 # Cakesheet
-This is a cheatsheet I created for my Statistics midterm. For easy readability under exam time constrain, I decided to 
+These are cheatsheets I created for my Statistics exams. The first half of the course (cheatsheet.pdf) focused on linear regression models and the second half of the course (cheatsheet2.pdf) focused on spatial statistics. 
+
+For easy readability under exam time constrain, I decided to 
 heavily abbreviate the terms and colour-code and the sheet using the palette (which I call cake-themed myself, thus created  the illustration below) inspired by the posts from @LVaudor on Twitter. 
 
 ### Cakepalette:
